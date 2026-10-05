@@ -57,8 +57,8 @@ Sistema de monitoramento de desastres naturais para o Vale do Paraíba e Litoral
 - **Rotas inteligentes:** com IA, as rotas são recalculadas a partir das ocorrências do feed, desviando das áreas de risco
 - **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, React Native (Expo), Leaflet, Lucide React e Supabase
 - **Minha função:** Scrum Master e Desenvolvedora front-end
-- **Repositório:** [Pluvite](https://github.com/JuliaKarollyne-O-Santos/Pluvite)
-- **Site:** [LINK_DO_PLUVITE](https://pluvite.vercel.app/)
+- **Repositório:**(https://github.com/JuliaKarollyne-O-Santos/Pluvite)
+- **Site:** (https://pluvite.vercel.app/)
 
 ### Retrôa
 

@@ -1,6 +1,6 @@
 # Julia Karollyne de Oliveira dos Santos
 
-Olá! Aqui você encontra meus projetos e as tecnologias que uso para transformar ideias em interfaces simples, bonitas e bem documentadas.
+Desenvolvedora front-end | UX/UI Design | Marketing Digital | Análise de Requisitos
 
 ## Sobre Mim
 
@@ -44,7 +44,7 @@ Estou em busca da minha primeira oportunidade de **estágio em Front-end, UI/UX 
 - **Banco de dados:** modelagem no brModelo e uso do SQLyog
 - **Design:** CorelDRAW
 - **Deploy:** Vercel e Render
-- **Outras:** Leaflet (mapas), Expo e ferramentas de IA, como o Claude
+- **Outras:** Expo e ferramentas de IA, como o Claude
 
 ## Projetos
 
@@ -56,9 +56,9 @@ Sistema de monitoramento de desastres naturais para o Vale do Paraíba e Litoral
 - **Feed colaborativo:** os moradores relatam ocorrências na sua região
 - **Rotas inteligentes:** com IA, as rotas são recalculadas a partir das ocorrências do feed, desviando das áreas de risco
 - **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, React Native (Expo), Leaflet, Lucide React e Supabase
-- **Minha função:** [O QUE VOCÊ FEZ NO PROJETO]
+- **Minha função:** Scrum Master e Desenvolvedora front-end
 - **Repositório:** [Pluvite](https://github.com/JuliaKarollyne-O-Santos/Pluvite)
-- **Site:** [LINK_DA_VERCEL](LINK_DA_VERCEL)
+- **Site:** [LINK_DO_PLUVITE](https://pluvite.vercel.app/)
 
 ### Retrôa
 
@@ -67,7 +67,7 @@ E-commerce de antiguidades e decoração vintage, com catálogo com busca e filt
 - **Minha função:** Scrum Master, organizando a sprint e o backlog, e participação na documentação de requisitos
 - **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS e Supabase (PostgreSQL)
 - **Repositório:** [Retrôa](https://github.com/AnaClara-S-Pereira/Retroa)
-- **Site:** [LINK_DA_VERCEL](LINK_DA_VERCEL)
+- **Site:** [LINK_DA_VERCEL](https://retroa.vercel.app/)
 
 ### CBA: Comedouro e Bebedouro Automatizado (TCC, ETEC)
 

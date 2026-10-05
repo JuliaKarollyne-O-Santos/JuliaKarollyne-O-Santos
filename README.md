@@ -57,8 +57,8 @@ Sistema de monitoramento de desastres naturais para o Vale do Paraíba e Litoral
 - **Rotas inteligentes:** com IA, as rotas são recalculadas a partir das ocorrências do feed, desviando das áreas de risco
 - **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, React Native (Expo), Leaflet, Lucide React e Supabase
 - **Minha função:** Scrum Master e Desenvolvedora front-end
-- **Repositório:**(https://github.com/JuliaKarollyne-O-Santos/Pluvite)
-- **Site:** (https://pluvite.vercel.app/)
+- **Repositório:** https://github.com/JuliaKarollyne-O-Santos/Pluvite
+- **Site:** https://pluvite.vercel.app/
 
 ### Retrôa
 
@@ -66,8 +66,8 @@ E-commerce de antiguidades e decoração vintage, com catálogo com busca e filt
 
 - **Minha função:** Scrum Master, organizando a sprint e o backlog, e participação na documentação de requisitos
 - **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS e Supabase (PostgreSQL)
-- **Repositório:** [Retrôa](https://github.com/AnaClara-S-Pereira/Retroa)
-- **Site:** [LINK_DA_VERCEL](https://retroa.vercel.app/)
+- **Repositório:** https://github.com/AnaClara-S-Pereira/Retroa
+- **Site:** https://retroa.vercel.app/
 
 ### CBA: Comedouro e Bebedouro Automatizado (TCC, ETEC)
 

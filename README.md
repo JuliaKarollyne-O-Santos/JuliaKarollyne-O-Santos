@@ -92,7 +92,6 @@ Aplicativo integrado ao Arduino que libera água e comida automaticamente para a
 - **Tecnologias:** Arduino (C/C++), sensores de peso, micro servo motor e programação mobile
 - **Impacto:** projeto ligado à ODS 11 da ONU (Cidades e Comunidades Sustentáveis)
 
----
 
 ## Contato
 

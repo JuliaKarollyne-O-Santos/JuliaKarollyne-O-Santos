@@ -1,5 +1,5 @@
 # Julia Karollyne de Oliveira dos Santos 
-- **Desenvolvedora | UX/UI Design | Marketing Digital | Análise de Requisitos**
+- **Desenvolvedora Web/Mobile | UX/UI Design | Marketing Digital | Análise de Requisitos**
 
 ## Sobre Mim
 

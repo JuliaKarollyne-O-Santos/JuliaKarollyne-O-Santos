@@ -75,7 +75,7 @@ E-commerce de antiguidades e decoração vintage, com catálogo com busca e filt
 
 - **Minha função:** Scrum Master, organizando a sprint e o backlog, e participação na documentação de requisitos
 - **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS e Supabase (PostgreSQL)
-- **Repositório:** https://github.com/AnaClara-S-Pereira/Retroa
+- **Repositório:** https://github.com/AJuliaKarollyne-O-Santos/Retroa
 - **Site:** https://retroa.vercel.app/
 
 <p>
@@ -91,7 +91,12 @@ Aplicativo integrado ao Arduino que libera água e comida automaticamente para a
 
 - **Tecnologias:** Arduino (C/C++), sensores de peso, micro servo motor e programação mobile
 - **Impacto:** projeto ligado à ODS 11 da ONU (Cidades e Comunidades Sustentáveis)
+- **Repositório:** https://github.com/JuliaKarollyne-O-Santos/CBA
 
+<p>
+  <img src="https://github.com/user-attachments/assets/47f886e6-9256-45a0-97d8-f9fe570b9aed" alt="Pluvite - tela 1" width="380"/>&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/805cb58d-b82d-48d4-a649-721f3ea466d6" alt="Pluvite - tela 2" width="380"/>
+</p>
 
 ## Contato
 

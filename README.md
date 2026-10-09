@@ -96,5 +96,5 @@ Aplicativo integrado ao Arduino que libera água e comida automaticamente para a
 ## Contato
 
 - **E-mail:** [juliakarollyne3m@gmail.com](mailto:juliakarollyne3m@gmail.com)
-<!-- - **LinkedIn:** [Julia Karollyne](COLE_O_LINK_AQUI) -->
-<!-- - **Portfólio:** [Meu portfólio](COLE_O_LINK_AQUI) -->
+- **LinkedIn:** [Julia Karollyne](https://www.linkedin.com/in/julia-santos-588b20326/)
+- **Portfólio:** [Meu portfólio](julia-karollyne.vercel.app)

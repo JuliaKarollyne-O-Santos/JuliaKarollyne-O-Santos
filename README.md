@@ -1,5 +1,6 @@
 # Julia Karollyne de Oliveira dos Santos 
 - **Desenvolvedora Web/Mobile | UX/UI Design | Marketing Digital | Análise de Requisitos**
+- **Portfólio:** [Meu portfólio](https://julia-karollyne.vercel.app/)
 
 ## Sobre Mim
 
@@ -102,4 +103,4 @@ Aplicativo integrado ao Arduino que libera água e comida automaticamente para a
 
 - **E-mail:** [juliakarollyne3m@gmail.com](mailto:juliakarollyne3m@gmail.com)
 - **LinkedIn:** [Julia Karollyne](https://www.linkedin.com/in/julia-santos-588b20326/)
-- **Portfólio:** [Meu portfólio](https://julia-karollyne.vercel.app/)
+- **WhatsApp:** [(12) 98264-2066](https://wa.me/5512982642066)

@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC Taubaté, pelo programa AMS (Articulação Médio-Superior: ETEC com extensão na FATEC), onde também me formei técnica em Desenvolvimento de Sistemas. Na ETEC, desenvolvi o projeto CBA (Comedouro e Bebedouro Automatizado), integrando Arduino (C/C++) a um aplicativo mobile.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Taubaté, pelo programa AMS (Articulação Médio-Superior: ETEC com extensão para FATEC), onde também me formei técnica em Desenvolvimento de Sistemas. Na ETEC, desenvolvi o projeto CBA (Comedouro e Bebedouro Automatizado), integrando Arduino (C/C++) a um aplicativo mobile.
 
 Gosto da parte do desenvolvimento que fica mais perto das pessoas: conversar com o cliente para entender o que ele precisa, transformar isso em requisitos e documentação, e depois desenhar e construir interfaces fáceis de usar. Nos projetos em equipe, já atuei como Scrum Master, organizando as tarefas com Scrum e Kanban.
 

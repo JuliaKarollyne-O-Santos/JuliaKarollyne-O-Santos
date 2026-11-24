@@ -42,7 +42,7 @@ Estou em busca da minha primeira oportunidade de **estágio em Desenvolvimento, 
 
 **Também tenho experiência com:**
 
-- **Gestão de projetos:** Scrum, Kanban e Jira
+- **Gestão de projetos:** Scrum e Kanban
 - **Documentação:** documentação de requisitos e engenharia de software
 - **Banco de dados:** modelagem no brModelo e uso do SQLyog
 - **Design:** CorelDRAW
